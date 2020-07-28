@@ -5,3 +5,4 @@ Waifu 2x can be found <a href='https://github.com/nagadomi/waifu2x'>here</a>.<br
 If you want to try it out quickly there is a web version <a href='http://waifu2x.udp.jp/'>here</a>.<br>
 
 The compressed paintings can be found in the pixelated directory and the upscaled images can be found in the upscaled directory. 
+
