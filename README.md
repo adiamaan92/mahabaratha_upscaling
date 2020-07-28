@@ -10,8 +10,15 @@ The compressed pixelated paintings are obtained from <a href='https://atmanirvan
 ![The Choice](combined/the_choice_combined.png)
 <i>Left is the original compressed image and Right is the upscaled image.</i>
 
-### Effects on faces:
+![The Fallen Hero](combined/the_fallen_hero_cropped.png)
 
+### Effects on faces
+![Kunti Devi's face from the painting Kunti and Karna](combined/kunti_devi_face_comparison.png)
 
-### Effects on 
+### Effects on fabric:
+![](combined/fabric_tent_comparison.png)
+
+### Effects on Hair:
+![](combined/fabric_tent_comparison.png)
+
 
