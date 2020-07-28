@@ -19,6 +19,6 @@ The compressed pixelated paintings are obtained from <a href='https://atmanirvan
 ![](combined/fabric_tent_comparison.png)
 
 ### Effects on Hair:
-![](combined/fabric_tent_comparison.png)
+![](combined/bheesma_hair_comparison.png)
 
 
