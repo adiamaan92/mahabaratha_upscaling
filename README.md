@@ -8,7 +8,7 @@ The compressed pixelated paintings are obtained from <a href='https://atmanirvan
 
 ## Results
 ![The Choice](combined/the_choice_combined.png)
-Left is the original compressed image and Right is the upscaled image.
+<i>Left is the original compressed image and Right is the upscaled image.</i>
 
 ### Effects on faces:
 
