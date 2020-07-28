@@ -8,6 +8,7 @@ The compressed pixelated paintings are obtained from <a href='https://atmanirvan
 
 ## Results
 <i>Left is the original compressed image and Right is the upscaled image.</i>
+
 ![The Choice](combined/the_choice_combined.png)
 
 ![The Fallen Hero](combined/the_fallen_hero_cropped.png)
