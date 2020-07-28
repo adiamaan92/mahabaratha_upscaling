@@ -7,6 +7,9 @@ This is the support repository for the medium blog post found <a href='https://m
 The compressed pixelated paintings are obtained from <a href='https://atmanirvana.com/mahabharata-in-painting/'>here</a>.<br>
 
 ## Results
+![The Choice](combined/the_choice_combined.png)
+Left is the original compressed image and Right is the upscaled image.
+
 ### Effects on faces:
 
 
