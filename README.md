@@ -1,4 +1,4 @@
-# Upscaling Giampaolo Tomasetti's Mahabratha paintings.
+# Upscaling Giampaolo Tomasetti's Mahabaratha paintings.
 Giampaolo Tomasetti’s is a co-founder and a member of the International Academy of Vedic Art. He studied Mahabaratha for 5 years and took 12 years to complete his collection of 25 majestic paintings depicting the main moments of the Mahabharata.
 If you are interested in Mahabaratha and Art, I highly recommend reading <a href='https://www.goodreads.com/book/show/28574720-mahabharata>Mahabarata by Giampaolo Tomasetti </a>. The book details the backstory for each of the paintings and how it came about.
 
